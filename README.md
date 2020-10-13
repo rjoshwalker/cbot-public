@@ -1,2 +1,7 @@
-# cbot-public
- Twitch Chat Bot in C
+# cbot
+Twitch Chat Bot in C
+
+```
+cmake ..
+make
+```
